@@ -1,0 +1,1 @@
+I think this repository will be where I submit my homework for this class, as well as my lab work. It could also be where Professor Flaxman shares information with us about what we will be doing for the class. 
