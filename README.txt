@@ -1,1 +1,1 @@
-I think this repository will be where I submit my homework for this class, as well as my lab work. It could also be where Professor Flaxman shares information with us about what we will be doing for the class. 
+This repository will be where I submit my homework and lab work for the class EBIO 4420, at CU Boulder. It is a way of communicating information between students and professor in the class.
