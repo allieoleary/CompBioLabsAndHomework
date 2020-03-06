@@ -27,7 +27,7 @@ The variables that were used in the file were:
 When this was plugged into the LogisticGrowthFunction, we could then export that information into the [GenTime.csv](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/Labs/Lab08/GenTime.csv) which is also present in the repository.
  
 This is the plot that is generated from the variables used above in the _Discrete-Time Logistic Growth Equation_, and the information stored in [GenTime.csv](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/Labs/Lab08/GenTime.csv):
-> ![](https://raw.githubusercontent.com/allieoleary/CompBioLabsAndHomework/master/Labs/Lab08/LAB08%20Plot.jpeg)
+> ![](https://raw.githubusercontent.com/allieoleary/CompBioLabsAndHomework/master/Labs/Lab08/Rplot.jpeg)
 
 
 ## Citations
