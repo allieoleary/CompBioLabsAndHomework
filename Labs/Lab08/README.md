@@ -16,7 +16,7 @@ The variables that are subject to change within the population include:
 The variables that were used in the file were:
 > **r** = 0.8 
  
-> **k** = 10,000
+> **K** = 10,000
  
 > **time** = 12
 
