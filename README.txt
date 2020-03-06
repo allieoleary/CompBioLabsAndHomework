@@ -1,1 +1,0 @@
-This repository will be where I submit my homework and lab work for the class EBIO 4420, at CU Boulder. It is a way of communicating information between students and professor in the class.
