@@ -22,7 +22,7 @@ The variables that were used in the file were:
 
 > **abundance** = 2,500
 
-When this was plugged into the LogisticGrowthFunction, we could then export that information into the .csv which is also present in the repository.
+When this was plugged into the LogisticGrowthFunction, we could then export that information into the [GenTime.csv](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/Labs/Lab08/GenTime.csv) which is also present in the repository.
 
 
 ## Citations
