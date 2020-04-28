@@ -1,36 +1,49 @@
 # How Male Parental Care in Primates is Correlated with Life History Traits in Species
+## Biological question
+When females have help from males in their species, do they have more time to invest into harvesting resources, maintaining healthy weights, and having litters?
 
-## Introduction
-- Within the data set, there are 111 species that are primates. I will be analyzing all primates. Specifically, I want to know how the behavioral trait "whether males provision the offspring" is correlated to life history traits "litter size", "litters per year" and "female body mass" (West and Capellini 2016). Similar to what the researchers of the original study suggested, when females have help from other members of their species, they may have more time to invest into harvesting resources, maintaining healthy weights and having litters. I would also suggest that when females receive help (specifically from males), that litter size, litters per year and female body mass increase.
+## Context
+-  Mammals care for their offspring in many different ways. In some mammalian species, only mothers care for the offspring. In other species, only males or males and females both contribute. Caring for offspring does come at a cost as any sort of child is time and energy consuming. According to the authors of the orginial study, "whether a species has male care (1) or not (0), defined as any of the following care behaviours; carrying, provisioning reproducing females, provisioning the offspring, grooming, huddling" (Capellini and West). When male care does occur, what are the benefits to the mother and the offspring? This question is what drove the work that I have done. Similar to what the researchers of the original study suggested, when females have help from other members of their species, they may have more time to invest into harvesting resources, maintaining healthy weights and having litters. I also suggested that when females receive help from males, that litter size, litters per year and female body mass increase no matter the order.
 
-## Summary of Data to be Analyzed
-### Original Study:
-- The original study conducted by Hannah E. R. West and Isabella Capellini wanted to understand when males would invest in offspring what the results of doing so are. They pose a few reasons like: "when future mating opportunities are scarce, males might do better to care for their current offspring" (West and Capellini 2016). West and Capellini hypothesize "that increased female fecundity and offspring fitness related traits are associated with male care using phylogenetic comparative methods"(West and Capellini 2016). Again, the hypothesis is analyzing life history traits but the authors are also curious about why males would invest in thier offspring, if there are costs to doing so or when it would be beneficial.
+## Methods
+### Original Data
+#### The source of the data I used:
+- Within the original data set that I was working with, there were 21 orders of animals and 529 different species. I originally planned on working with only primates but after further analysis, decided to include rodents and carnivores as well, as they also had sufficient data available. Specifically, I wanted to know how the behavioral trait "whether males care for their offspring" is correlated to life history traits "litter size", "litters per year" and "female body mass" (West and Capellini 2016). 
+- The data provided includes an excel document (101.68 kB) that is 21 columns wide and 530 rows long (a header and 529 species). Columns include Order, Species, eight behavioral traits, ten life history traits and a citation count. Behavioral and life history traits have abbreviations that are defined in the key so that headers are not too long, which is helpful for appearance. All species include an underscore inbetween words in place of a space, which was helpful for coding. There is a README file associated with the data which was helpful in understanding what I was working with.
+- The data that the original authors was collected via a meta-analysis. This means they drew from many sources that analysed life history and behavioral traits in the species that were being observed. They include a column of information that indicates how many sources were pulled from to complete a row of information for one species.
+#### What the original authors did with the data:
+- With the original data, the authors used phylogenetic comparative methods to begin understanding how different male care behaviors affect life history traits such as lactation periods, weaning mass, female fecundity and more. To begin, West and Capellini defined the variables that they planned to use in thier analysis (i.e. behavioral traits and life history traits). After this, they identified species that had enough data available to work with and used a meta-analysis to analyse the species based on the defined traits.
+- After definitions were put in place and applied to all of the species the authors used Phylogenetic Generalized Least Squares (PGLS), which anaylyses continuous and comparative data. They also used the 'caper' package in R to conduct thier phylogenetic analsysis.
 
-### Methods:
-- Given previously available data, the researchers assembled a data set comprised of 529 mammals that had information for two or more of the life history traits they were looking at. Because there was some variation between datasets they were working with, they created a code for male behaviors "with 1 indicating the presence and 0 the absence of the trait" and normalized the distribution. Life history data was collected (for the same species as was collected above) with information about things like "female adult mass" and "litter size" (West and Capellini 2016). The researchers made specific definitions for male care behaviors, as to apply to all of the species. They address any confounding variables and create strategies to minimize distractions from what they are trying to discover.
+#### Original Data Links: 
+###### West H, Capellini I (2016) Male care and life history traits in mammals. Dryad Digital Repository.
+[(source)](https://datadryad.org/stash/dataset/doi:10.5061/dryad.j909k)
 
-### Type of data provided:
-- The data provided includes an excel document (101.68 kB) that is 21 columns wide and 530 rows long (a header and 529 species). Columns include Order, Species, eight behavioral traits, ten life history traits and a citation count. Behavioral and life history traits have abbreviations that are defined in the key so that headers are not too long, which is helpful for appearance but might get confusing if I am trying to remember which one is which (in which case, I will refer to the key). All species include an underscore in place of a space, which will be helpful when coding. There is a README file associated with the data which is helpful in understanding what I am working with.
-- I can only detect a few "problems" with the data. First, there are many species in which not all behavioral and life history traits are filled out (in which case, an NA is present). Second, the size of the data worries me as there are 529 species to analyze (which is part of the reason why I am narrowing down my obserservations to only primates). Also, from what I can see, there are far more "zero's" present than "one's" in regard to male behavioral traits which may make results unsubstantial in regards to differences between males who care for their offsping vs. those who don't if I choose species/traits that don't have much variation between one another.
-
-## Detailed Description of Analysis to be Done and Challenges Involved
-- To start, I will need to remove all species from my data set that are not primates. Before this, I will need to parse out the data dependent on what order the species fall into, so I can then delete them.
-- I will then remove all columns other than "Species", "whether males provision the offspring", "litter size", "litters per year" and "female body mass" (West and Capellini 2016). Here, I should end up with a data set that is 5 columns wide and 112 rows long (with 111 species of primates).
-- As a whole, I will analyze the correlation between "whether males provision the offspring" and "litter size", "whether males provision the offspring" and "litters per year" and "whether males provision the offspring" and "female body mass". 
-- For each of these analyses, I will remove species that do not have information (or have an NA present where I need information to analyze). Here, the data set may shrink depending on what life history trait I am analyzing.
-- I will create graphs (most likely, scatter plots) with male provision on the x-axis (independent variable) and the corresponding life history trait on the y-axis.
-
+###### West H, Capellini I (2016) Male care and life history traits in mammals. Nat Commun 7, 11854.
+[(original)](https://www.nature.com/articles/ncomms11854)
 
 
-### References
+### My Methods
+- In my analysis, I began by cleaning up any inconsistencies I saw in the data, and removing any information that was not relevant to the question I was asking.
+- I removed all "NA's" and replaced them with "0's" as NA's would give me error messages down the line.
+- I renamed column headers so that the data sheet was more straight-forward as I was looking at it.
+- I then used code to sift through the data and determine which orders to keep, and which to discard. If the order did not contain at least two "1s" for "Male Care" and/or six species were discarded. That narrowed down the orders to only primates, carnivores, and rodents.
+- Once I had these species determined, I subset them into thier own data frames.
+- From here, I used ggplot2 to make boxplots. I compared Male Care vs. Litter Size, Litters per Year, and Female Body Mass for each order (resulting in 9 graphs)
 
+
+## My Results and Conclusion
+What did you find? How does this relate to your question? Include at least one visualization.
+
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMCarnivore.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMPrimates.jpeg)
+
+
+
+## References Cited
 West H, Capellini I (2016) Male care and life history traits in mammals. Dryad Digital Repository.
 [(source)](https://datadryad.org/stash/dataset/doi:10.5061/dryad.j909k)
 
 West H, Capellini I (2016) Male care and life history traits in mammals. Nat Commun 7, 11854.
 [(original)](https://www.nature.com/articles/ncomms11854)
-
-
-
 
