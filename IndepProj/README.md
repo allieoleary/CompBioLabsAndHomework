@@ -37,6 +37,13 @@ What did you find? How does this relate to your question? Include at least one v
 
 >![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMCarnivore.jpeg)
 >![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMPrimates.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMRodents.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LitterSizeCarnivore.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LitterSizePrimate.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LitterSizeRodents.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LpYCarnivore.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LpYPrimates.jpeg)
+>![](hhttps://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LpYRodents.jpeg)
 
 
 
