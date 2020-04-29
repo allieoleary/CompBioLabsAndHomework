@@ -33,22 +33,24 @@ When females have help from males in their species, do they have more time to in
 
 
 ## My Results and Conclusion
-The claim in my hypothesis that female body mass (g) would increase when male care was present cannot be accepted. In both Carnivores and Primates, female body mass (g) was larger when male care was not present. For Rodents, female body mass was similar when male care was or was not present. Though I was not correct in my hypothesis, this still tells us much about the nature of these orders. I would suggest that female body mass is simply reliant on other external variables. 
-
-The prediction that l
-
-
-What did you find? How does this relate to your question? Include at least one visualization.
-
->![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMCarnivora.jpeg)
->![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMPrimates.jpeg)
->![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMRodentia.jpeg)
->![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LSCarnivora.jpeg)
->![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LSPrimates.jpeg)
->![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LSRodentia.jpeg)
+In my hypothesis, litters per year increasing with male care seems to hold true for all of the orders that were analyzed. I beleive that the extra help that the mothers receive increases their ability to invest in having more offspring. Though there is a wide variation, this is due to orders holding a wide variety of species.
 >![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LyPCarnivora.jpeg)
 >![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LpYPrimates.jpeg)
 >![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LpYRodentia.jpeg)
+
+
+Litter size in both Carnivora and Primates shows a significant increase when male care is present. In Rodentia, however, litter size is very similar when male care is and is not present. It could be presumed that litter size is affected by male care, however, it may be influenced by other variables as well.
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LSCarnivora.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LSPrimates.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LSRodentia.jpeg)
+
+
+
+The claim in my hypothesis that female body mass (g) would increase when male care was present cannot be accepted. In both Carnivores and Primates, female body mass (g) was larger when male care was not present. For Rodents, female body mass was similar when male care was or was not present. Though I was not correct in my hypothesis, this still tells us much about the nature of these orders. I would suggest that female body mass is simply reliant on other external variables. 
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMCarnivora.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMPrimates.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMRodentia.jpeg)
+
 
 
 ## References Cited
