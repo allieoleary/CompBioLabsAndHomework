@@ -1,4 +1,5 @@
 # How Male Parental Care in Primates is Correlated with Life History Traits in Species
+
 ## Biological question
 When females have help from males in their species, do they have more time to invest into harvesting resources, maintaining healthy weights, and having litters?
 
@@ -35,7 +36,7 @@ If females receive help from males in caring for offspring, litter size, litters
 - From here, I used ggplot2 to make boxplots. I compared Male Care vs. Litter Size, Litters per Year, and Female Body Mass for each order (resulting in 9 graphs).
 
 
-## My Results and Conclusion
+## Results
 In my hypothesis, litters per year increasing with male care seems to hold true for all of the orders that were analyzed. I beleive that the extra help that the mothers receive increases their ability to invest in having more offspring. Though there is a wide variation, this is due to orders holding a wide variety of species.
 >![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LyPCarnivora.jpeg)
 >![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LpYPrimates.jpeg)
@@ -54,7 +55,7 @@ The claim in my hypothesis that female body mass (g) would increase when male ca
 >![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMPrimates.jpeg)
 >![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMRodentia.jpeg)
 
-# What to take from this
+## Conclusion
 The results found supported pieces of the hypothesis, but not in full. With this being said, there are many variables that could lend to contradictions to the hypothesis posed. It is possible that any results that were collected were not totally accurate due to varying sample size between orders (Carnivora, n=91; Primates, n=111; Rodentia, n=136). In addition to varying sample sizes, the occurrences of males caring were far less than the occurrences of males not carrying in all orders. 
 The authors of the original study make mention of the Load-Lightening hypothesis that is posed by Humphrey Crick. According to the hypothesis, when parental care increases in individuals other than the mother, the mother then has more time to invest into in “increasing [her] reproductive output” (West and Capellini 2016; Crick 1992). This hypothesis supports the correlating results that I found with both Littler Size and Litters per Year having a positive correlation with male care.
 
