@@ -40,16 +40,15 @@ The prediction that l
 
 What did you find? How does this relate to your question? Include at least one visualization.
 
->![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMCarnivore.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMCarnivora.jpeg)
 >![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMPrimates.jpeg)
->![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMRodents.jpeg)
->![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LitterSizeCarnivore.jpeg)
->![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LitterSizePrimate.jpeg)
->![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LitterSizeRodents.jpeg)
->![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LpYCarnivore.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMRodentia.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LSCarnivora.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LSPrimates.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LSRodentia.jpeg)
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LyPCarnivora.jpeg)
 >![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LpYPrimates.jpeg)
->![](hhttps://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LpYRodents.jpeg)
-
+>![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/LpYRodentia.jpeg)
 
 
 ## References Cited
