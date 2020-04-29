@@ -33,6 +33,11 @@ When females have help from males in their species, do they have more time to in
 
 
 ## My Results and Conclusion
+The claim in my hypothesis that female body mass (g) would increase when male care was present cannot be accepted. In both Carnivores and Primates, female body mass (g) was larger when male care was not present. For Rodents, female body mass was similar when male care was or was not present. Though I was not correct in my hypothesis, this still tells us much about the nature of these orders. I would suggest that female body mass is simply reliant on other external variables. 
+
+The prediction that l
+
+
 What did you find? How does this relate to your question? Include at least one visualization.
 
 >![](https://github.com/allieoleary/CompBioLabsAndHomework/blob/master/IndepProj/Images/FBMCarnivore.jpeg)
