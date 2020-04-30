@@ -1,4 +1,4 @@
-# How Male Parental Care in Mammals is Correlated with Life History among various Orders
+# How Male Parental Care in Mammals is Correlated with Life History Traits Among Various Orders
 
 ## Biological question
 When females have help from males in their respective orders, do they have more time to invest into harvesting resources, maintaining healthy weights, and having litters?
